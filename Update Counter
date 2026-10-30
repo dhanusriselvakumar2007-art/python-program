@@ -1,0 +1,4 @@
+You are given an integer counter. Perform the following operations in order:
+
+a=int(input())
+print(((a+5)*2)-3)
