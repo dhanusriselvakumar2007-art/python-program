@@ -1,0 +1,12 @@
+Write a program to calculate the area of each shape based on the given inputs.
+
+area=int(input())
+length=int(input())
+breath=int(input())
+radius=int(input())
+base=int(input())
+height=int(input())
+print("Area of Square=%d"%(area*area))
+print("Area of Rectangle=%d"%(length*breath))
+print("Area of Circle=%.2f"%(3.14*radius*radius))
+print("Area of Triangle=%d"%(int((0.5)*base*height)))
