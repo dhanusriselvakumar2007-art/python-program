@@ -1,0 +1,6 @@
+Write a program that correctly reads both the integer and the sentence, and then prints them on separate lines.
+
+a=int(input())
+b=input()
+print(a)
+print(b)
