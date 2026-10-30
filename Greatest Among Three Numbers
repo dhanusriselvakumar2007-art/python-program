@@ -1,0 +1,7 @@
+Write a program that reads an integer and print greatest among tree number using Ternary operator.
+
+a=int(input())
+b=int(input())
+c=int(input())
+print(max(a,b,c))
+  
