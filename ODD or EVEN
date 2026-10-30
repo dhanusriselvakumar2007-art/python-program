@@ -1,0 +1,4 @@
+Write a program that reads an integer and prints whether the number is Odd or Even using Ternary operator.
+
+a=int(input())
+print("Odd" if a % 2 !=0 else "Even")
